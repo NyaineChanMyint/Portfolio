@@ -1,23 +1,26 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
 import {
-  DiJavascript1,
-  DiReact,
-  DiNodejs,
-  DiMongodb,
+  //DiJavascript1,
+  //DiReact,
+  //DiNodejs,
+  //DiMongodb,
   DiPython,
-  DiPhp,
+  //DiPhp,
   DiGit,
   DiDocker,
-  DiMysql
+  DiMysql,
+  DiNetworking,
+  DiLinux,
+  DiWindowServer
 } from "react-icons/di";
 import {
   SiKubernetes,
   SiAnsible,
   SiTerraform,
-  SiPytorch,
-  SiFirebase,
-  SiNextdotjs,
+  //SiPytorch,
+  //SiFirebase,
+  //SiNextdotjs,
 } from "react-icons/si";
 
 function Techstack() {
