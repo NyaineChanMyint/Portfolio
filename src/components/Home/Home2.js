@@ -21,21 +21,21 @@ function Home2() {
             <p className="home-about-body">
               I fell in love with 
               <i>
-                <b className="purple"> DevOps Engineering and Cloud Computing. </b>
+                <b className="purple"> Linux System Administration, DevOps Engineering, Cloud Computing. </b>
               </i> 
               <br />
               <br />I am fluent in 
               <i>
-                <b className="purple"> Linux System Administration and DevOps Engineering. </b>
+                <b className="purple"> Linux System Administration, Cloud Computing and DevOps Engineering. </b>
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              My field of Interest's are building to learn and test &nbsp;
               <i>
                 <b className="purple">Automation Pipelines</b> and
                 also in areas related to{" "}
                 <b className="purple">
-                  Containerization and Cloud Computing.
+                  Containerization, Cloud Computing and also Linux System Administration.
                 </b>
               </i>
               <br />
@@ -57,7 +57,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/heinhtetwin"
+                  href="https://github.com/NyaineChanMyint"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -67,7 +67,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/HeinuxDevOps"
+                  href=""
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -77,7 +77,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/hein-htet-win/"
+                  href="https://www.linkedin.com/in/nyaine-chan-myint-87bb14180/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"

@@ -10,7 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple"> Nyaine Chan Myint </span>
             from <span className="purple"> Yangon, Myanmar.</span>
-            <br />I am a System Administrator at Hirokei Myanmar Systems Co.,Ltd and who learning to become DevOps Engineer.
+            <br />I am a System Administrator at Myanmar APN Co.,Ltd and who learning to become DevOps Engineer.
             <br />
             <br />
             Apart from my job, some other activities that I love to do!
